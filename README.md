@@ -48,7 +48,7 @@ building full-stack web applications and solving real-world problems.
 
 **Class 12 — 2022**
 
-🔗 [School Website](https://school.banglarshiksha.gov.in/ws/website/history/19190601504)
+🔗 [Byabattarhat Adarsha High School](https://school.banglarshiksha.gov.in/ws/website/history/19190601504)
 
 ---
 
@@ -56,7 +56,7 @@ building full-stack web applications and solving real-world problems.
 
 **Class 10 — 2020**
 
-🔗 [School Website](https://school.banglarshiksha.gov.in/ws/website/history/19190601504)
+🔗 [Byaabattarhat Adarsha High School](https://school.banglarshiksha.gov.in/ws/website/history/19190601504)
 
 ---
 
